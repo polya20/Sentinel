@@ -1,6 +1,5 @@
-# 🚨 KCC Sentinel: The "Grand Slam" Dashboard for Kafka SREs
+# 🚨 KCC Sentinel: The missing intelligence dashboard for  Kafka SREs
 
-> *"Make an offer so good people feel stupid saying no." — Alex Hormozi*
 
 If you manage Kafka at scale, you already know the pain. 
 A broker goes down. Consumer lag spikes to 4 million on the `payments` topic. The `#incidents` Slack channel is blowing up. Your executives are asking for ETAs.
@@ -16,7 +15,6 @@ We didn't just build another dashboard to show you more graphs you don't underst
 
 ## 📈 The Value Equation (Why You Need This)
 
-According to the $100M Offers framework, value is determined by four variables. Here is how KCC Sentinel maximizes your SRE value:
 
 ### 1. Dream Outcome (⬆️ Increased)
 **Sleep through the night and achieve 99.999% uptime.** You never want to blindly guess during a Kafka outage again. KCC Sentinel gives you absolute clarity on cluster health, translating raw metrics into actionable English.
