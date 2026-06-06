@@ -1,6 +1,10 @@
 # 🚨 KCC Sentinel: The missing intelligence dashboard for  Kafka SREs
 
 
+![alt text](https://github.com/polya20/Sentinel/blob/main/sentinel_dashboard.png?raw=true)
+
+
+
 If you manage Kafka at scale, you already know the pain. 
 A broker goes down. Consumer lag spikes to 4 million on the `payments` topic. The `#incidents` Slack channel is blowing up. Your executives are asking for ETAs.
 
