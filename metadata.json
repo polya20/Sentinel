@@ -1,0 +1,6 @@
+{
+  "name": "KCC SRE Operations Center",
+  "description": "An AI-powered dashboard and assistant for SREs managing Kafka Cruise Control, supporting incident prevention, troubleshooting, and root cause synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
